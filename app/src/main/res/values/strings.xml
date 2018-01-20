@@ -1,0 +1,21 @@
+<resources>
+    <string-array name="kota_asal">
+        <item>Pilih Kota</item>
+        <item>Surabaya</item>
+        <item>Malang</item>
+        <item>Palembang</item>
+        <item>Blitar</item>
+        <item>Sidoarjo</item>
+        <item>Batu</item>
+        <item>Jakarta</item>
+        <item>Cirebon</item>
+        <item>Bogor</item>
+        <item>Jogja</item>
+        <item>Solo</item>
+        <item>Semarang</item>
+
+
+    </string-array>
+
+    <string name="app_name">Ticket balik</string>
+</resources>
